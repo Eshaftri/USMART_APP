@@ -1,6 +1,6 @@
 # Real-time webApp with Websocket & Elasticsearch
 
-This project is to monitoring cryptocurrency transactions, by consume data form WebSocket API Real-Time Data and insert the message data into an Elasticsearch container using Nodejs.
+This project is to monitoring cryptocurrency transactions, by consume data form WebSocket API Real-Time Data and insert the message data into an Elasticsearch container using Nodejs,koa and vue.js.
 
 ## Requirements
 
